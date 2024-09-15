@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://kogojutagu.vercel.app/sitemap.xml
